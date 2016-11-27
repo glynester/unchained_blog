@@ -143,3 +143,16 @@ h1, h2, h3, h4 {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+
+
+/*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+.complete{
+    display:none;
+}
+
+.more{
+    background:lightblue;
+    color:navy;
+    font-size:13px;
+    padding:3px;
+    cursor:pointer;
